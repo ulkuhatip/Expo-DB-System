@@ -4,7 +4,6 @@
 **Bölüm:** Bilişim Sistemleri Mühendisliği  
 **Ders:** TBL331 Veritabanı Yönetim Sistemleri (2025-2026 Bahar)  
 **Grup No:99** 241307043 Meryem Özübek-231307028 Ülkü Hatip
-# Expo-DB-System
 
 Fuar ve Konferans Organizasyon Otomasyonu Proje Raporu
 Proje Ozeti
